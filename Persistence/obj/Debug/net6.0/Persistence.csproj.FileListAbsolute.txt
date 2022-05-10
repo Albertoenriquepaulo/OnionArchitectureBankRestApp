@@ -1,0 +1,17 @@
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Persistence\bin\Debug\net6.0\Application.dll
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Persistence\bin\Debug\net6.0\Domain.dll
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Persistence\bin\Debug\net6.0\Application.pdb
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Persistence\bin\Debug\net6.0\Domain.pdb
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Persistence\obj\Debug\net6.0\ref\Persistence.dll

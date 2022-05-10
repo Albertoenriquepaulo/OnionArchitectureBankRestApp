@@ -12,16 +12,16 @@ namespace Domain.Entities
         public string? Email { get; set; }
         public string? Address { get; set; }
 
-        private int _edad;
-        public int Edad
+        private int _age;
+        public int Age
         {
             get 
             {
-                if (this._edad <= 0)
+                if (this._age <= 0)
                 {
-                    this._edad = new DateTime(DateTime.Now.Subtract(this.BirthDate).Ticks).Year - 1; 
+                    this._age = new DateTime(DateTime.Now.Subtract(this.BirthDate).Ticks).Year - 1; 
                 }
-                return this._edad;
+                return this._age;
             }
         }
     }

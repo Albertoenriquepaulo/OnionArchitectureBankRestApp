@@ -1,4 +1,6 @@
 using Application;
+using Persistence;
+using Shared;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +12,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddApplicationLayer(); // One call and we are adding all the services we need to add, that are in our Appplication layer
+builder.Services.AddPersistenceInfraestructureLayer(builder.Configuration); 
+builder.Services.AddSharedInfraestructureLayer(builder.Configuration);
 
 var app = builder.Build();
 

@@ -1,0 +1,15 @@
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\bin\Debug\net6.0\Shared.deps.json
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\bin\Debug\net6.0\Shared.dll
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\bin\Debug\net6.0\Shared.pdb
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\bin\Debug\net6.0\Application.dll
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\bin\Debug\net6.0\Application.pdb
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\obj\Debug\net6.0\Shared.csproj.AssemblyReference.cache
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\obj\Debug\net6.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\obj\Debug\net6.0\Shared.AssemblyInfoInputs.cache
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\obj\Debug\net6.0\Shared.AssemblyInfo.cs
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\obj\Debug\net6.0\Shared.csproj.CoreCompileInputs.cache
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\obj\Debug\net6.0\Shared.csproj.CopyComplete
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\obj\Debug\net6.0\Shared.dll
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\obj\Debug\net6.0\refint\Shared.dll
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\obj\Debug\net6.0\Shared.pdb
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\obj\Debug\net6.0\ref\Shared.dll

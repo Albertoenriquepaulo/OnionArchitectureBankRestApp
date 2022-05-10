@@ -1,0 +1,5 @@
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache

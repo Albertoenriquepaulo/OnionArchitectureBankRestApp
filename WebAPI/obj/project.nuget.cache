@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kA7+zYHdE+lD7wMP+vjQeayWTakVslQi34CEAN/4i0rwB+IZldXINY+KZvKztvgpy/9SzMT1mnDHKiZquz87Sw==",
+  "dgSpecHash": "4qL4lY+m8kg6CC9lQj4XzFD1QBYj4aDbVPCZUU8ndH9fnvGfHuw7T8T5zlW/rnvPUSK8GIYrLz3aUxWRjWD0Qg==",
   "success": true,
   "projectFilePath": "C:\\stash\\MyProjects\\OnionArchitectureBankRestTraining\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\apaulo\\.nuget\\packages\\ardalis.specification\\6.0.1\\ardalis.specification.6.0.1.nupkg.sha512",
     "C:\\Users\\apaulo\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\apaulo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\apaulo\\.nuget\\packages\\fluentvalidation\\11.0.1\\fluentvalidation.11.0.1.nupkg.sha512",

@@ -19,9 +19,7 @@ namespace Application.Exceptions
         public ValidationException(IEnumerable<ValidationFailure> failures) : this()
         {
             foreach (var failure in failures)
-            {
                 Errors.Add(failure.ErrorMessage);
-            }
         }
     }
 }

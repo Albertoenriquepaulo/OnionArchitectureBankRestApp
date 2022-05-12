@@ -27,7 +27,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\stash\\MyProjects\\OnionArchitectureBankRestTraining\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\stash\\MyProjects\\OnionArchitectureBankRestTraining\\Domain\\Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

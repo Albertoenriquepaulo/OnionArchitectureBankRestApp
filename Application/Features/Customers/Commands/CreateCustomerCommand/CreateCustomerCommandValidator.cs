@@ -24,7 +24,7 @@ namespace Application.Features.Customers.Commands.CreateCustomerCommand
 
             RuleFor(p => p.Email)
                 .NotEmpty().WithMessage("{PropertyName} can not be empty.")
-                .EmailAddress().WithMessage("{PropertyName} should be a valid email.")
+                .EmailAddress().WithMessage("Invalid email.")
                 .MaximumLength(100).WithMessage("{PropertyName} can not exceed {MaxLength} characters.");
 
             RuleFor(p => p.Address)

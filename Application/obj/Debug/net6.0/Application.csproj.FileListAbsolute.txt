@@ -10,3 +10,6 @@ C:\stash\MyProjects\OnionArchitectureBankRestTraining\Application\obj\Debug\net6
 C:\stash\MyProjects\OnionArchitectureBankRestTraining\Application\obj\Debug\net6.0\refint\Application.dll
 C:\stash\MyProjects\OnionArchitectureBankRestTraining\Application\obj\Debug\net6.0\Application.pdb
 C:\stash\MyProjects\OnionArchitectureBankRestTraining\Application\obj\Debug\net6.0\ref\Application.dll
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Application\bin\Debug\net6.0\Domain.dll
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Application\bin\Debug\net6.0\Domain.pdb
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Application\obj\Debug\net6.0\Application.csproj.CopyComplete

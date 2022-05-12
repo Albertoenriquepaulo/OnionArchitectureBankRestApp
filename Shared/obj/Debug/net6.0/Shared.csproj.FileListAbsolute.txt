@@ -13,3 +13,5 @@ C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\obj\Debug\net6.0\Sh
 C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\obj\Debug\net6.0\refint\Shared.dll
 C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\obj\Debug\net6.0\Shared.pdb
 C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\obj\Debug\net6.0\ref\Shared.dll
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\bin\Debug\net6.0\Domain.dll
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\Shared\bin\Debug\net6.0\Domain.pdb

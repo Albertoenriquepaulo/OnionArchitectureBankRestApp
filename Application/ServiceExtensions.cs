@@ -1,4 +1,5 @@
-﻿using FluentValidation;
+﻿using Application.Behaviors;
+using FluentValidation;
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 using System.Reflection;
@@ -13,6 +14,7 @@ namespace Application
             services.AddAutoMapper(Assembly.GetExecutingAssembly()); // to register automatically the mapper in this class library
             services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
             services.AddMediatR(Assembly.GetExecutingAssembly());
+            services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehavior<,>));
 
             // This registers should be done in the startup file of the project, but we are looking for a totallly decouple of our app
             // we should not depend on that. That's why we have installed the dependencyInjection nugget for Automapper, Mediator and FluentValidation

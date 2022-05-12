@@ -15,6 +15,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddApplicationLayer(); // One call and we are adding all the services we need to add, that are in our Appplication layer
 builder.Services.AddPersistenceInfraestructureLayer(builder.Configuration); 
 builder.Services.AddSharedInfraestructureLayer(builder.Configuration);
+builder.Services.AddApiVersioningExtension();
 
 var app = builder.Build();
 

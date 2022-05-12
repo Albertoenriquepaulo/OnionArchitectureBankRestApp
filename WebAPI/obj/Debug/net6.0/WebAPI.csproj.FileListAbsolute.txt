@@ -76,3 +76,4 @@ C:\stash\MyProjects\OnionArchitectureBankRestTraining\WebAPI\bin\Debug\net6.0\Ap
 C:\stash\MyProjects\OnionArchitectureBankRestTraining\WebAPI\bin\Debug\net6.0\Persistence.pdb
 C:\stash\MyProjects\OnionArchitectureBankRestTraining\WebAPI\bin\Debug\net6.0\Shared.pdb
 C:\stash\MyProjects\OnionArchitectureBankRestTraining\WebAPI\bin\Debug\net6.0\Domain.pdb
+C:\stash\MyProjects\OnionArchitectureBankRestTraining\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
